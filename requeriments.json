@@ -1,0 +1,16 @@
+pip install pytube moviepy tkinter
+pip install --upgrade pytube
+pip install yt-dlp moviepy
+pip install TTS soundfile
+pip install gTTS
+pip install pytesseract
+pip install webdriver-manager
+pip install google-cloud-vision
+pip install mss
+pip install transformers torch
+pip install tiktoken
+pip install pyperclip
+pip install pytesseract
+pip install pygame librosa numpy moviepy
+pip install imageio-ffmpeg
+pip install moviepy numpy
